@@ -6,12 +6,11 @@ Uses standard Random class code from Java to select a name from a vector of name
 
 How-To:
 Enter a name in the indicated box.
-Click the -> button to include the name into the list.
+Click the -> button to include the name into the list or press the enter key.
 Click the Shuffle Button to randomly select a winner from the list.
 Click the Reset Button to empty the list of all names.
 Click the Red X to exit the program.
 
 TODO:
-Add scrolling bar on list display
-Add Quit Button Functionality
+Add scrolling bar on list display, 
 Add feature to select certain names on list for deletion
